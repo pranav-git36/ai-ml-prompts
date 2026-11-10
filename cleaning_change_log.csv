@@ -1,0 +1,4 @@
+column,issue_found,action_taken
+age,2 invalid value(s),Set to NaN (out-of-range ages cannot be safely guessed)
+city,"1 missing value(s), inconsistent casing","Filled missing with 'Unknown', standardized to Title Case"
+signup_date,3 different date formats detected,Parsed and unified to YYYY-MM-DD
